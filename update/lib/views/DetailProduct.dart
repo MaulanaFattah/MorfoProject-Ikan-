@@ -5,6 +5,8 @@ import 'package:morfo/provider/theme_provider.dart';
 import 'package:provider/provider.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 
+
+
 class DetailProductScreen extends StatefulWidget {
   final dynamic data;
   const DetailProductScreen({Key? key, required this.data}) : super(key: key);
